@@ -2,17 +2,17 @@
 module.change_code = 1;
 var _ = require('lodash');
 var CAKEBAKER_DATA_TABLE_NAME = 'cakeBakerData';
-// var dynasty = require('dynasty')({});
+var dynasty = require('dynasty')({});
 
 // use local server instead of dynasty
-var localUrl = 'http://localhost:8000';
-var localCredentials = {
-  region: 'us-east-1',
-  accessKeyId: 'fake',
-  secretAccessKey: 'fake'
-};
-var localDynasty = require('dynasty')(localCredentials, localUrl);
-var dynasty = localDynasty;
+// var localUrl = 'http://localhost:8000';
+// var localCredentials = {
+//   region: 'us-east-1',
+//   accessKeyId: 'fake',
+//   secretAccessKey: 'fake'
+// };
+// var localDynasty = require('dynasty')(localCredentials, localUrl);
+// var dynasty = localDynasty;
 
 function CakeBakerHelper() {}
 var cakeBakerTable = function() {
