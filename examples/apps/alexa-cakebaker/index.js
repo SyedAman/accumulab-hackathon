@@ -82,7 +82,7 @@ skillService.intent('loadCakeIntent', {
       var cakeBakerHelper = new CakeBakerHelper(loadedCakeBakerData);
       return cakeBakerIntentFunction(cakeBakerHelper, request, response);
     });
-    return false;
+    // return false;
   }
 );
 
@@ -94,7 +94,7 @@ skillService.intent('saveCakeIntent', {
     saveCake(cakeBakerHelper, request);
     response.say('Your cake progress has been saved!');
     response.shouldEndSession(true).send();
-    return false;
+    // return false;
   }
 );
 
