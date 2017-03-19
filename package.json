@@ -1,12 +1,12 @@
 {
-  "name": "Accumulab",
+  "name": "cakebaker",
   "version": "1.0.0",
-  "description": "alexa helps you treat a symptom!",
+  "description": "alexa helps you bake a cake!",
   "main": "index.js",
-  "author": "yaseen",
-  "license": "None",
+  "author": "josh skeen",
+  "license": "ISC",
   "dependencies": {
-    "alexa-app": "^3.1.0",
+    "alexa-app": "^2.3.2",
     "dynasty": "^0.2.4",
     "lodash": "^4.3.0"
   }
