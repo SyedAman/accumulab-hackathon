@@ -6,7 +6,7 @@ function CakeBakerHelper(obj) {
   this.currentStep = 0;
   this.steps = [
     {
-      prompt: 'Initiating Accumulab\'s Scryvr AI. Say next to get started.'
+      prompt: 'I see that you\'re experiencing joint pain and changes in sensory ability. I believe you have decompression sickness. Please say next so I can walk you through alleviating your symptoms.'
     },
     {
       prompt: 'If your symptoms occur during EVA, terminate any EVA.'
@@ -24,7 +24,7 @@ function CakeBakerHelper(obj) {
       prompt: 'If symptoms do not resolve, remain in suit at maximum pressure.'
     },
     {
-      prompt: 'Breathe 100 % O2 via umbilicals to airlock O2 tank for 2 hours. Consider increasing ambient station pressure to maximu'
+      prompt: 'Breathe 100 % O2 via umbilicals to airlock O2 tank for 2 hours. Consider increasing ambient station pressure to maximum'
     },
     {
       prompt: 'After suit doffing, Limit activity. '
@@ -33,7 +33,7 @@ function CakeBakerHelper(obj) {
       prompt: 'Push oral fluids, 1 Liter per hour for 2 hours.'
     },
     {
-      prompt: 'End of procedure. Scryvr will periodically follow up with you to check on the status of your symptoms.'
+      prompt: 'End of procedure. Accumulab will periodically follow up with you to check on the status of your symptoms.'
     }
   ];
 

@@ -57,8 +57,8 @@ skillService.intent('repeatStepIntent', {
 );
 
 skillService.launch(function(request, response) {
-  var prompt = 'Welcome to Cakebaker!' +
-    'To start baking, say bake a cake';
+  var prompt = 'Welcome to Accumulab!' +
+    'Please state your symptoms.';
   response.say(prompt).shouldEndSession(false);
 });
 
