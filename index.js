@@ -25,7 +25,7 @@ var getCakeBakerHelperFromRequest = function(request) {
 var cakeBakerIntentFunction = function(cakeBakerHelper, request, response) {
   console.log(cakeBakerHelper);
   if (cakeBakerHelper.completed()) {
-    response.say('Congratulations! Your cake is complete!');
+    response.say('End of procedure. Accumulab will periodically follow up with you to check on the status of your symptoms.');
     response.shouldEndSession(true);
   } else {
     response.say(cakeBakerHelper.getPrompt());
@@ -57,7 +57,7 @@ skillService.intent('repeatStepIntent', {
 );
 
 skillService.launch(function(request, response) {
-  var prompt = 'Welcome to Accumulab!' +
+  var prompt = 'Welcome to Accumulab! ' +
     'Please state your symptoms.';
   response.say(prompt).shouldEndSession(false);
 });

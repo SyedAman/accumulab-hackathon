@@ -5,11 +5,13 @@ function CakeBakerHelper(obj) {
   this.started = false;
   this.currentStep = 0;
   this.steps = [
+    // CakeBakeIntent starts here
     {
       prompt: 'I see that you\'re experiencing joint pain and changes in sensory ability. I believe you have decompression sickness. Please say next so I can walk you through alleviating your symptoms.'
     },
+    // advanceStepIntent starts here
     {
-      prompt: 'If your symptoms occur during EVA, terminate any EVA.'
+      prompt: 'If your symptoms occur during E.V.A, terminate any E.V.A.'
     },
     {
       prompt: 'Repress as soon as possible.'
@@ -31,9 +33,6 @@ function CakeBakerHelper(obj) {
     },
     {
       prompt: 'Push oral fluids, 1 Liter per hour for 2 hours.'
-    },
-    {
-      prompt: 'End of procedure. Accumulab will periodically follow up with you to check on the status of your symptoms.'
     }
   ];
 
