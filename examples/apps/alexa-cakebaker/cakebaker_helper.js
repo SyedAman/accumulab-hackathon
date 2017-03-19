@@ -6,43 +6,34 @@ function CakeBakerHelper(obj) {
   this.currentStep = 0;
   this.steps = [
     {
-      prompt: 'Lets bake a cake. When you are ready say next.'
+      prompt: 'Initiating Accumulab's Scryvr AI. Say next to get started.'
     },
     {
-      prompt: 'Preheat the oven to 350 degrees F.'
+      prompt: 'If your symptoms occur during EVA, terminate any EVA.'
     },
     {
-      prompt: 'Butter 2 9-inch round cake pans and dust the pans with flour, tapping out the excess.'
+      prompt: 'Repress as soon as possible.'
     },
     {
-      prompt: 'Whisk 3 cups flour, the baking powder and salt in a bowl until combined.'
+      prompt: 'If symptoms resolve, remain in suit.'
     },
     {
-      prompt: 'Beat 2 sticks butter and 1 and 1/2 cups sugar in a large bowl with a mixer on medium-high speed until light and fluffy, about 3 minutes.'
+      prompt: 'Continue 100 % O2 for 1 hour via umbilical’s to airlock oxygen tank.'
     },
     {
-      prompt: 'Reduce the mixer speed to medium; beat in the eggs, one at a time, scraping down the bowl as needed. '
+      prompt: 'If symptoms do not resolve, remain in suit at maximum pressure.'
     },
     {
-      prompt: 'Beat in the 1 tablespoon of vanilla.'
+      prompt: 'Breathe 100 % O2 via umbilicals to airlock O2 tank for 2 hours. Consider increasing ambient station pressure to maximu'
     },
     {
-      prompt: 'Mix 1/2 cup water with the cream in a liquid measuring cup or bowl. '
+      prompt: 'After suit doffing, Limit activity. '
     },
     {
-      prompt: 'Beat the flour mixture into the butter mixture in 3 batches, alternating with the cream mixture, beginning and ending with flour, until just smooth.'
+      prompt: 'Push oral fluids, 1 Liter per hour for 2 hours.'
     },
     {
-      prompt: 'Divide the batter between the prepared pans.'
-    },
-    {
-      prompt: 'Bake until the cakes are lightly golden on top and the centers spring back when pressed, 25 to 30 minutes.'
-    },
-    {
-      prompt: 'Let cool 10 minutes'
-    },
-    {
-      prompt: 'Congratulations! You\'ve baked a cake! Now, you may eat it!'
+      prompt: 'End of procedure. Scryvr will periodically follow up with you to check on the status of your symptoms.'
     }
   ];
 
