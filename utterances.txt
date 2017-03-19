@@ -5,17 +5,6 @@ cakeBakeIntent  Im experiencing joint pain and changes in sensory ability
 cakeBakeIntent  joint pain and changes in sensory ability
 cakeBakeIntent  my knee hurts and I can't see
 cakeBakeIntent  Im blind and I'm in pain
-cakeBakeIntent  build cake
-cakeBakeIntent  new a cake
-cakeBakeIntent  start a cake
-cakeBakeIntent  create a cake
-cakeBakeIntent  begin a cake
-cakeBakeIntent  build a cake
-cakeBakeIntent  new the cake
-cakeBakeIntent  start the cake
-cakeBakeIntent  create the cake
-cakeBakeIntent  begin the cake
-cakeBakeIntent  build the cake
 loadCakeIntent  load cake
 loadCakeIntent  resume cake
 loadCakeIntent  load a cake
