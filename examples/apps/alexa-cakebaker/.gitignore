@@ -1,0 +1,6 @@
+book/distribution-tng/*
+book/Solutions/*
+/node_modules/*
+
+# ignore zip
+*.zip
