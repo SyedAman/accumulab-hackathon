@@ -1,0 +1,34 @@
+advanceStepIntent   next
+advanceStepIntent   advance
+advanceStepIntent   continue
+cakeBakeIntent  Im experiencing joint pain and changes in sensory ability
+cakeBakeIntent  joint pain and changes in sensory ability
+cakeBakeIntent  my knee hurts and I can't see
+cakeBakeIntent  Im blind and I'm in pain
+cakeBakeIntent  build cake
+cakeBakeIntent  new a cake
+cakeBakeIntent  start a cake
+cakeBakeIntent  create a cake
+cakeBakeIntent  begin a cake
+cakeBakeIntent  build a cake
+cakeBakeIntent  new the cake
+cakeBakeIntent  start the cake
+cakeBakeIntent  create the cake
+cakeBakeIntent  begin the cake
+cakeBakeIntent  build the cake
+loadCakeIntent  load cake
+loadCakeIntent  resume cake
+loadCakeIntent  load a cake
+loadCakeIntent  resume a cake
+loadCakeIntent  load the cake
+loadCakeIntent  resume the cake
+loadCakeIntent  load last cake
+loadCakeIntent  resume last cake
+loadCakeIntent  load a last cake
+loadCakeIntent  resume a last cake
+loadCakeIntent  load the last cake
+loadCakeIntent  resume the last cake
+saveCakeIntent  save cake
+saveCakeIntent  save a cake
+saveCakeIntent  save the cake
+saveCakeIntent  save my cake
