@@ -6,7 +6,7 @@ function CakeBakerHelper(obj) {
   this.currentStep = 0;
   this.steps = [
     {
-      prompt: 'Initiating Accumulabs Scryvr AI. Say next to get started.'
+      prompt: 'Initiating Accumulab\'s Scryvr AI. Say next to get started.'
     },
     {
       prompt: 'If your symptoms occur during EVA, terminate any EVA.'
