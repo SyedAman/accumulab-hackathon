@@ -1,6 +1,10 @@
 advanceStepIntent   next
 advanceStepIntent   advance
 advanceStepIntent   continue
+advanceStepIntent   now what
+advanceStepIntent   hurry up Im dying
+advanceStepIntent   okay what do i do next
+advanceStepIntent   what do I do now
 cakeBakeIntent  Im experiencing joint pain and changes in sensory ability
 cakeBakeIntent  joint pain and changes in sensory ability
 cakeBakeIntent  my knee hurts and I cant see
