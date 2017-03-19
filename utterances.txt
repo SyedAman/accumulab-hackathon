@@ -3,8 +3,8 @@ advanceStepIntent   advance
 advanceStepIntent   continue
 cakeBakeIntent  Im experiencing joint pain and changes in sensory ability
 cakeBakeIntent  joint pain and changes in sensory ability
-cakeBakeIntent  my knee hurts and I can't see
-cakeBakeIntent  Im blind and I'm in pain
+cakeBakeIntent  my knee hurts and I cant see
+cakeBakeIntent  Im blind and Im in pain
 loadCakeIntent  load cake
 loadCakeIntent  resume cake
 loadCakeIntent  load a cake
